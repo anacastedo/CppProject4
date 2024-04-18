@@ -1,2 +1,2 @@
-# Project4
+# C++ - Project4
  String operations in C++
